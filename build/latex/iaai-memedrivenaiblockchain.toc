@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Abstract}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Background}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}MEME driven AI \sphinxhyphen {} IAAI.meme}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Blockchain driven AI \sphinxhyphen {} IAAI.digital}{11}{chapter.5}%
+\contentsline {chapter}{\numberline {6}The OODA Loop in effective digital decision making}{13}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Decision support based on BigData from Data Bridges}{15}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Autonomous Multi Systems in Decision Making}{17}{chapter.8}%
+\contentsline {chapter}{\numberline {9}IAAI Network}{19}{chapter.9}%
+\contentsline {chapter}{\numberline {10}\sphinxstylestrong {Conclusion}}{21}{chapter.10}%
